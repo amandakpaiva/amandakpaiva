@@ -4,7 +4,7 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning ... Swift
 - 👯 I’m looking to collaborate on javascript
-- 🤔 I’m looking for help with Swift
+- 🤔 I’m looking for help with Swift/Javascript
 
 
 
@@ -19,5 +19,7 @@
   <a href="https://www.linkedin.com/in/amanda-paiva-774617107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
      </div>
 
+
+amandakpaiva@gmail.com
 </div>
  
