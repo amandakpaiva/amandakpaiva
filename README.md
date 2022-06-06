@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/swift/swift-original.svg">
 </div>
        
-       
+       </br>
        
   <a href="https://www.linkedin.com/in/amanda-paiva-774617107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
      </div>
