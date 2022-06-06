@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏳️‍🌈
 
      Amanda Paiva 🇧🇷🏳️‍🌈💁🏻‍♀️✨ 
 - 😄 Pronouns: she/her
