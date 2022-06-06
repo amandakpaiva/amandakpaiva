@@ -4,8 +4,7 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning ... Swift
 - 👯 I’m looking to collaborate on Swift
-- 🤔 I’m looking for help with Swift/Javascript
-
+- 🤔 I’m looking for help with Swift
 
 
 <div  align="center"> 
