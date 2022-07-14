@@ -24,8 +24,6 @@
 </div>
        
  
-     </div>
-
 
 amandakpaiva@gmail.com
 
