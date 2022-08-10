@@ -2,7 +2,7 @@
 
      Amanda Paiva 🇧🇷🏳️‍🌈💁🏻‍♀️✨ 
 - 😄 Pronouns: she/her
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift/Uikit/SwifUI
 - 👯 I’m looking to collaborate on Swift
 - 🤔 I’m looking for help with Swift
 
