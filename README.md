@@ -1,6 +1,11 @@
 
 
      Amanda Paiva 🇧🇷🏳️‍🌈💁🏻‍♀️✨ 
+     
+  iOS developer at VentureLabs |
+- Helpie app 
+- bluepay
+
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning Swift/Uikit/SwifUI
 - 👯 I’m looking to collaborate on Swift
