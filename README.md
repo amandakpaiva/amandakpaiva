@@ -2,7 +2,7 @@
 
      Amanda Paiva 🇧🇷🏳️‍🌈💁🏻‍♀️✨ 
      
-iOS developer at VentureLabs | Helpie app | bluepay
+iOS developer
 
 - 🌱 I’m currently working: Swift/UIkit
 - 👯 I’m looking to collaborate on Swift
